@@ -6,12 +6,10 @@ title: Nice Tat Astro Template
 
 # Nice Tat Astro Template
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[about](/about)
 
-[instagram](https://www.instagram.com/caseyneistat/)
+[media](/media)
 
-[onlyfans](/onlyfans)
+[writings](/writings)
 
-[twitter](https://twitter.com/Casey)
-
-[contact](/contact)
+[linkedin](/(https://www.linkedin.com/in/mattaolive/))

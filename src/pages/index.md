@@ -1,10 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Matt Olive
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
-
-# Nice Tat Astro Template
 
 [about](/about)
 
@@ -12,4 +9,4 @@ title: Nice Tat Astro Template
 
 [writings](/writings)
 
-[linkedin](/(https://www.linkedin.com/in/mattaolive/))
+[linkedin](https://www.linkedin.com/in/mattaolive/)
